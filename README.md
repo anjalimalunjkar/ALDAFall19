@@ -14,6 +14,6 @@ The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/dataset
 
 ### Run the code
 
-- To run the code, add the .ipynb file to Google colab. Upload dataset on the drive under `/ALDA/dataset/` folder.
+- To run the code, add the [.ipynb](https://github.com/anjalimalunjkar/ALDAProject/blob/master/project_alda_HCI.ipynb) file to Google colab. Upload dataset on the drive under `/ALDA/dataset/` folder.
 - Run each cell from the beginning.
 
